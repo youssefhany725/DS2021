@@ -61,7 +61,7 @@ void MarsStation::Complete()
 {
 
 	Mission* M;
-	Rover* R;
+	Rover* nigga;
 }
 
 void MarsStation::AddEvent(missiontype missionType, int eventDay, int ID, int targetLocation, int missionDuration, int significance)
